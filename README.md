@@ -1,5 +1,4 @@
 ## Scripts for WSL
-- cmd.sh [filename]
-- explorer.sh [dirname]
+- explorer.sh [dirname or filename]
 ## License
 MIT
